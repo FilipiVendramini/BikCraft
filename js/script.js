@@ -15,6 +15,7 @@ if(window.SimpleAnime){
     new SimpleAnime();
 }
 
+/*
 if(window.SimpleAnime){
     new SimpleForm({
         form: ".formphp",
@@ -23,3 +24,4 @@ if(window.SimpleAnime){
         sucesso: "<div id='form-sucesso'><h2>Formulário enviado com sucesso</h2><p>Em breve eu entro em contato com você.</p></div>",
     });
 }
+*/
